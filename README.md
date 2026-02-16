@@ -5,7 +5,10 @@
 Мне важно видеть взаимосвязи внутри продукта, выстраивать тестирование так, чтобы охватывать ключевые сценарии, проверять корректность работы системы в разных условиях и понимать последствия найденных дефектов для пользователей.  
 Люблю структурировать информацию, анализировать поведение системы и создавать понятные модели для тестирования. Постоянно развиваю навыки тест-дизайна и изучаю новые подходы к проверке приложений.
  
- [@Email](mailto:mariafitz222@gmail.com)
+## Связаться со мной
+
+[![Email](https://img.shields.io/badge/Email-@Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariafitz222@gmail.com)  
+
 
 ## Навыки
 
@@ -24,10 +27,10 @@
 
 ## Проекты
 
-1️⃣ [Тестирование API расчёта быстрой доставки](fast-delivery-api-testing)  
+1️⃣ [Тестирование API расчёта быстрой доставки](https://github.com/MariaBusygina/fast-delivery-api-testing.git)  
 
-2️⃣ [Тестирование мобильного приложения "Яндекс Метро"](yandex-metro-mobile)
+2️⃣ [Тестирование мобильного приложения "Яндекс Метро"](https://github.com/MariaBusygina/yandex-metro-mobile-testing.git)
 
-3️⃣ [Тестирование логики переходов мобильного приложения "Яндекс Маршруты"](yandex-metro-mobile-testing)  
+3️⃣ [Тестирование логики переходов мобильного приложения "Яндекс Маршруты"](https://github.com/MariaBusygina/yandex-routes-transitions-testing.git)  
 
 Portfolio of QA projects by Maria Busygina
