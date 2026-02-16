@@ -7,7 +7,8 @@
  
 ## Связаться со мной
 
-[![Email](https://img.shields.io/badge/Email-@Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariafitz222@gmail.com)  
+[![Email](https://img.shields.io/badge/-@Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mariafitz222@gmail.com)
+  
 
 
 ## Навыки
