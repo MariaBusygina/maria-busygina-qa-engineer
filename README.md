@@ -5,11 +5,6 @@
 Тестирую веб и мобильные приложения (iOS, Android): функциональное, регрессионное, smoke, UI, API. Системно подхожу к тестированию — разрабатываю тест-кейсы и чек-листы, применяю техники тест-дизайна, анализирую клиент-серверное взаимодействие через DevTools и Postman.
 В портфолио — проекты по тестированию API, мобильных приложений и UI-автоматизации на Python (Selenium, pytest, Docker).
  
-## Связаться со мной
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mariafitz222@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/MariaB_QA)
-
 
 ## Связаться со мной
 
