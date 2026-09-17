@@ -37,4 +37,6 @@
 
 3️⃣ [Тестирование логики переходов мобильного приложения "Яндекс Маршруты"](https://github.com/MariaBusygina/yandex-routes-transitions-testing.git)  
 
+4️⃣ [Автотестирование веб-приложения Foodgram](https://github.com/MariaBusygina/foodgram-ui-autotests)
+
 Portfolio of QA projects by Maria Busygina
